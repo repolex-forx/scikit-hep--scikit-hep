@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "scikit-hep",
+  "repo": "scikit-hep",
+  "versions": [
+    {
+      "commit": "8d048d4df0f2a0ad4537c702f591ce2daf5c2825",
+      "parsed_at": "2026-10-28T14:46:08.590711+00:00",
+      "filetree": "filetree/8d048d4df0f2a0ad4537c702f591ce2daf5c2825.nq.gz",
+      "blobs": [
+        "blob/6b1ffdcba21a9e33010d73ec76f1e362446af6e3.nq.gz",
+        "blob/848816a2bb534dd939e8f1a912030977750c6276.nq.gz",
+        "blob/2a2affb339fe1d8a2968636aaac06f86e3906658.nq.gz",
+        "blob/484c90e92228bf4a247186c1d946679071cb7832.nq.gz",
+        "blob/2ed5fd37932e2c8f79df30f39bf2cb87ee7e9e83.nq.gz",
+        "blob/3c8699181fcee5b98f6e9a58b1bf4bb0f9b8beda.nq.gz",
+        "blob/a20f0db546d27ce34e6d1a600a172d8d39b219e0.nq.gz",
+        "blob/b0567b4fc06532946f91db171f3a9d015fe949ce.nq.gz",
+        "blob/36f3de22f1c87fd63ec23fa06942b19d5da38739.nq.gz",
+        "blob/d6cfe41d4551fab542f0e986909c5031e4e4c111.nq.gz",
+        "blob/21492dd50888b57189bb85b7cad95692c69484af.nq.gz",
+        "blob/783b82a68b3ff0f98755be7882e510d195e588f3.nq.gz",
+        "blob/0c8705477b20ae79d3a087ac2a31e2785d03bb2c.nq.gz",
+        "blob/31ae675d3f2ea3d50f5b320c579ed206e8400feb.nq.gz",
+        "blob/36ae2c31df1f7a4daa90e0f8c6be357c1e2a85a3.nq.gz",
+        "blob/83de88ba40ea6bf6dce4570f5c3cde1a53bea1dd.nq.gz",
+        "blob/35ed4ceb69bb92b5807aad2693863fb14287a266.nq.gz",
+        "blob/87428620c62f6b7ec074670a8b2218db75c1d6f8.nq.gz",
+        "blob/898f5ae574f716f03f419060d9cd7411b764aecb.nq.gz",
+        "blob/3f2034ad39e92cea4b5d1f9aa8ce80e7a166d248.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
